@@ -1,6 +1,7 @@
 # BiliBili-Data-acquisition
 从BiliBili网页上爬取10000的用户信息和10000的视频信息分析课程设计
-
+Cooperate with Anton-Liu 
+https://github.com/Anton-Liu/data-acquisition
 1 项目简介
 bilibili视频数据分析
 
